@@ -1,18 +1,8 @@
 ---
 layout: home
 title: "Guan Huang"
-subtitle: ""
+subtitle: "Ph.D. Student · Auburn University · 📧 gzh0040 at auburn dot edu"
 ---
-
-<div style="text-align: center;">
-  <h1 style="margin-bottom: 0.2em;">Guan Huang</h1>
-  <p style="font-size: 1.1em; margin: 0.2em 0;">
-    Ph.D. Student · Auburn University
-  </p>
-  <p style="font-size: 1.05em; color: #555;">
-    📧 gzh0040 <i>at</i> auburn <i>dot</i> edu
-  </p>
-</div>
 
 Welcome! I’m **Guan Huang**, a Ph.D. student in Computer Science and Software Engineering at **Auburn University**. My research focuses on **Federated Learning**, **Transformer-based Architectures**, **Graph Machine Learning**, **Ensemble Learning**, **Model Distillation**, and **Dynamic Pruning for Large Language Models (LLMs)**.
 
