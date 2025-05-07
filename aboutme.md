@@ -8,7 +8,7 @@ permalink: /aboutme/
 
 I am **Guan Huang**, a Ph.D. student in the Department of Computer Science and Software Engineering at **Auburn University**, where I also earned my M.S. in 2023.
 
-My research focuses on **federated learning**, **transformer-based architectures**, **graph neural networks**, **ensemble learning**, **model distillation**, and **dynamic pruning for large language models (LLMs)**. I work on practical challenges such as learning under noisy labels, network intrusion detection, cybersecurity analytics, low-Earth-orbit satellite systems, and efficient LLM inference via structured pruning.
+My research focuses on **Federated Learning**, **Transformer-based Architectures**, **Graph Machine Learning**, **Ensemble Learning**, **Model Distillation**, and **Dynamic pruning for large language models (LLMs)**. I work on practical challenges such as learning under noisy labels, network intrusion detection, cybersecurity analytics, low-Earth-orbit satellite systems, and efficient LLM inference via structured pruning.
 
 I have published papers in premier machine learning venues, including **ICML** and **ICMLA**. I am a recipient of the **Auburn University Graduate Research Fellowship**. I am also supported by the **NSF Graduate Research Fellowship Program** through my advisor's grant. In addition, I serve as a teaching assistant in the department.
 
