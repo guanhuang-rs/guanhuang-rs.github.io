@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: "About Me"
+permalink: /aboutme/
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+<img src="/assets/img/profile.png" width="150" style="float: right; margin-left: 20px; border-radius: 10px;">
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am **Guan Huang**, a Ph.D. student in the Department of Computer Science and Software Engineering at **Auburn University**, where I also earned my M.S. in 2023.
 
-What else do you need?
+My research focuses on **federated learning**, **transformer-based architectures**, **graph neural networks**, **ensemble learning**, **model distillation**, and **dynamic pruning for large language models (LLMs)**. I work on practical challenges such as learning under noisy labels, network intrusion detection, cybersecurity analytics, low-Earth-orbit satellite systems, and efficient LLM inference via structured pruning.
 
-### My story
+I have published papers in premier machine learning venues, including **ICML** and **ICMLA**, and I am a recipient of the **Auburn University Graduate Research Fellowship**. I am also supported by the **NSF Graduate Research Fellowship Program** through my advisor's grant. In addition, I serve as a teaching assistant in the department.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+In my free time, I enjoy reading about AI safety, contributing to open-source ML libraries, and building academic tools that bridge research and real-world applications.
+
+You can view my [CV](/cv/) or explore my [publications](/publications/).
