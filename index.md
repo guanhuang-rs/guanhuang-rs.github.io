@@ -39,7 +39,7 @@ Welcome! I’m **Guan Huang**, a Ph.D. student in Computer Science and Software 
 - <span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">ICMLA</span> *A Global-Local ProbSparse Self-Attention Transformer for LEO Satellite Orbit Prediction*  
   **Guan Huang**, Tao Shu  
   23rd International Conference on Machine Learning and Applications (ICMLA), 2024 – Accepted, to appear in December 2024  
-  *(Acceptance rate: 108/444 = 24.3%)*  
+  *(Acceptance rate: 24.3%)*  
   🔗 [PDF](/assets/publications/GLO.pdf) &nbsp;|&nbsp; [Slides](/assets/slides/glopre.pptx) &nbsp;|&nbsp; [Code](https://app.box.com/s/jyc52jl6raw2n216pnrwht5aakl45juh)
 
 ---
