@@ -48,4 +48,19 @@ Welcome! I’m **Guan Huang**, a Ph.D. student in Computer Science and Software 
 
 ---
 
+### 👨‍🏫 Teaching Experience
+
+I have served as a teaching assistant for both undergraduate and graduate-level courses in computer science and software engineering at Auburn University. Below is a list of the courses I have supported:
+
+| Semester        | Course Code   | Course Title                                      |
+|-----------------|---------------|--------------------------------------------------|
+| **Fall 2025**   | COMP 4320     | Introduction to Computer Networks               |
+| **Fall 2024**   | COMP 4320     | Introduction to Computer Networks               |
+| **Spring 2024** | COMP 7370     | Advanced Computer and Network Security          |
+| **Spring 2024** | COMP 4320     | Introduction to Computer Networks               |
+| **Fall 2023**   | COMP 7300     | Computer Architecture                           |
+| **Spring 2023** | CPSC 3700     | Software Engineering                            |
+| **Fall 2022**   | CPSC 3700     | Software Engineering                            |
+
+
 You can also check out my [CV](/cv/) or read more [about me](/aboutme/).
