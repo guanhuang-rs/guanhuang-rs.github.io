@@ -21,17 +21,17 @@ Welcome! I’m **Guan Huang**, a Ph.D. student in Computer Science and Software 
 
 ### 📚 Published
 
-- <span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">ICML</span> _Federated Oriented Learning: A Practical One-Shot Personalized Federated Learning Framework_  
+- <span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">ICML</span> *Federated Oriented Learning: A Practical One-Shot Personalized Federated Learning Framework*  
   **Guan Huang**, Tao Shu  
   International Conference on Machine Learning (ICML), 2025 – Accepted, to appear in May 2025  
   🔗 [PDF](/assets/publications/icml2025_fol.pdf) &nbsp;|&nbsp; [Slides Coming Soon](/assets/slides/fol_presentation.pdf) &nbsp;|&nbsp; [Code](https://github.com/guanhuang-rs/guanhuang-rs.github.io/blob/master/assets/code/fol.zip)
 
-- <span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">Peer-to-Peer Netw. Appl</span> _CAT: A Simple Heterogeneous Ensemble Learning Framework for Network Intrusion Detection_  
+- <span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">Peer-to-Peer Netw. Appl</span> *CAT: A Simple Heterogeneous Ensemble Learning Framework for Network Intrusion Detection*  
   Zheng Zhang, **Guan Huang**, Sanjeev Baskiyar  
   Springer Peer-to-Peer Networking and Applications, 2025 – Accepted, to appear in April 2025  
   🔗 [PDF Coming Soon](/assets/publications/cat_ppna2025.pdf) &nbsp;|&nbsp; [Slides Coming Soon](/assets/slides/cat_presentation.pdf) &nbsp;|&nbsp; [Code Coming Soon](https://github.com/guanhuang-rs/cat-nid)
 
-- <span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">ICMLA</span> _A Global-Local ProbSparse Self-Attention Transformer for LEO Satellite Orbit Prediction_  
+- <span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">ICMLA</span> *A Global-Local ProbSparse Self-Attention Transformer for LEO Satellite Orbit Prediction*  
   **Guan Huang**, Tao Shu  
   23rd International Conference on Machine Learning and Applications (ICMLA), 2024 – Accepted, to appear in December 2024  
   *(Acceptance rate: 108/444 = 24.3%)*  
