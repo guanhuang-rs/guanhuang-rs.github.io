@@ -8,12 +8,20 @@ Welcome! I’m **Guan Huang**, a Ph.D. student in Computer Science and Software 
 
 ---
 
-### 📰 News
+### 📰 News & Updates
 
-- 📌 **May 2025**: Paper accepted to **ICML 2025**! 🎉  
-  _"Federated Oriented Learning: A Practical One-shot Personalized Federated Learning Framework"_
-- 📌 **Apr 2025**: CAT paper accepted by **Springer Peer-to-Peer Networking and Applications**
-- 📌 **Dec 2024**: Orbit prediction paper accepted to **ICMLA 2024**
+- <span style="background-color:#28a745; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">May 2025</span>  
+  ✅ Paper accepted at **ICML 2025**  
+  _Federated Oriented Learning: A Practical One-shot Personalized Federated Learning Framework_
+
+- <span style="background-color:#28a745; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">April 2025</span>  
+  📘 Paper accepted at **Peer-to-Peer Netw. Appl. (Springer)**  
+  _CAT: A Simple Heterogeneous Ensemble Learning Framework for Network Intrusion Detection_
+
+- <span style="background-color:#28a745; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">December 2024</span>  
+  🛰️ Paper accepted at **ICMLA 2024**  
+  _A Global-Local ProbSparse Self-Attention Transformer for LEO Satellite Orbit Prediction_
+
 
 ---
 
