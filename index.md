@@ -22,7 +22,7 @@ Welcome! I’m **Guan Huang**, a Ph.D. student in Computer Science and Software 
 - **Federated Oriented Learning: A Practical One-Shot Personalized Federated Learning Framework**  
   *Guan Huang, Tao Shu*  
   _ICML 2025 (to appear)_  
-  🔗 [PDF](/assets/publications/icml2025_fol.pdf) | [Slides TBD](/assets/slides/cat_presentation.pdf) | [Code](https://github.com/guanhuang-rs/code/fol.zip)
+  🔗 [PDF](/assets/publications/icml2025_fol.pdf) | [Slides TBD](/assets/slides/cat_presentation.pdf) | [Code](https://github.com/guanhuang-rs/guanhuang-rs.github.io/blob/master/assets/code/fol.zip)
 
 - **CAT: A Simple Heterogeneous Ensemble Learning Framework for Network Intrusion Detection**  
   *Zheng Zhang, Guan Huang, Sanjeev Baskiyar*  
