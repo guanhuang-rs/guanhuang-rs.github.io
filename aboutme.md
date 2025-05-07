@@ -14,4 +14,4 @@ I have published papers in premier machine learning venues, including **ICML** a
 
 In my free time, I enjoy reading about AI safety, contributing to open-source ML libraries, and building academic tools that bridge research and real-world applications.
 
-You can view my [CV](/cv/) or explore my [publications](/publications/).
+You can view my [CV](/cv/) or explore my [publications](https://guanhuang-rs.github.io/).
