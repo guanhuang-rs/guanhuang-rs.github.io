@@ -4,7 +4,7 @@ title: "About Me"
 permalink: /aboutme/
 ---
 
-<img src="/assets/img/profile.png" width="150" style="float: right; margin-left: 20px; border-radius: 10px;">
+<img src="/assets/img/Guan_Huang.jpg" width="150" style="float: right; margin-left: 20px; border-radius: 10px;">
 
 I am **Guan Huang**, a Ph.D. student in the Department of Computer Science and Software Engineering at **Auburn University**, where I also earned my M.S. in 2023.
 
