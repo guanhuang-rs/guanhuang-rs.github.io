@@ -4,7 +4,7 @@ title: "Guan Huang"
 subtitle: "Ph.D. Student | Auburn University | Email: gzh0040 AT auburn DOT edu"
 ---
 
-Welcome! I’m **Guan Huang**, a Ph.D. student in Computer Science and Software Engineering at **Auburn University**. My research focuses on **federated learning**, **transformer-based architectures**, **graph neural networks**, and **dynamic pruning of large language models (LLMs)**.
+Welcome! I’m **Guan Huang**, a Ph.D. student in Computer Science and Software Engineering at **Auburn University**. My research focuses on **federated learning**, **transformer-based architectures**, **graph neural networks**, **ensemble learning**, **model distillation**, and **dynamic pruning for large language models (LLMs)**.
 
 ---
 
