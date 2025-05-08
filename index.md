@@ -19,7 +19,7 @@ Welcome! I’m **Guan Huang**, a Ph.D. student in Computer Science and Software 
 
 - <span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">April 2025</span> One paper accepted at **Peer-to-Peer Netw. Appl. (Springer)**  
 
-- <span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">December 2024</span> One paper accepted at **ICMLA 2024**  
+- <span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">September 2024</span> One paper accepted at **ICMLA 2024**  
 
 
 ---
@@ -38,7 +38,7 @@ Welcome! I’m **Guan Huang**, a Ph.D. student in Computer Science and Software 
 
 - <span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">ICMLA</span> *A Global-Local ProbSparse Self-Attention Transformer for LEO Satellite Orbit Prediction*  
   **Guan Huang**, Tao Shu  
-  23rd International Conference on Machine Learning and Applications (ICMLA), 2024 – Accepted, to appear in December 2024  
+  23rd International Conference on Machine Learning and Applications (ICMLA), 2024 – Accepted, to appear in September 2024  
   *(Acceptance rate: 24.3%)*  
   🔗 [PDF](/assets/publications/GLO.pdf) &nbsp;|&nbsp; [Slides](/assets/slides/glopre.pptx) &nbsp;|&nbsp; [Code](https://app.box.com/s/jyc52jl6raw2n216pnrwht5aakl45juh)
 
