@@ -46,7 +46,7 @@ Welcome! I’m **Guan Huang**, a Ph.D. student in Computer Science and Software 
 
 ### 📝 Under Review
 
-- *Decentralized Federated Learning Over Noisy \*\*\*\*\*\* *  
+- *Decentralized Federated Learning Over Noisy \*\*\*\*\*\**  
   **Guan Huang**, Tao Shu  
   Submitted to _Neurocomputing_
 
