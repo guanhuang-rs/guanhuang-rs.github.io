@@ -29,7 +29,7 @@ Welcome! I’m **Guan Huang**, a Ph.D. student in Computer Science and Software 
 - <span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">ICML</span> *Federated Oriented Learning: A Practical One-Shot Personalized Federated Learning Framework*  
   **Guan Huang**, Tao Shu  
   International Conference on Machine Learning (ICML), 2025 – Accepted, to appear in May 2025  
-  🔗 [PDF](/assets/publications/Federated_Oriented_Learning_Guan_Huang_cameraready.pdf) &nbsp;|&nbsp; [Slides Coming Soon](/assets/slides/Federated_Oriented_Learning_Guan_Huang_cameraready.pdf) &nbsp;|&nbsp; [Poster](https://github.com/guanhuang-rs/guanhuang-rs.github.io/blob/master/assets/publications/Guan_Huang_ICML_2025_FOL_Poster.pdf) &nbsp;|&nbsp; [Code](https://app.box.com/s/phf6bhjy6owcr6b1rvfe412fiw059pxk)
+  🔗 [PDF](/assets/publications/Federated_Oriented_Learning_Guan_Huang_cameraready.pdf) &nbsp;|&nbsp; [Slides Coming Soon](/assets/slides/Federated_Oriented_Learning_Guan_Huang_cameraready.pdf) &nbsp;|&nbsp; [Poster](https://github.com/guanhuang-rs/guanhuang-rs.github.io/blob/master/assets/publications/Guan_Huang_ICML_2025_FOL_Poster.pdf) &nbsp;|&nbsp; <a href="https://app.box.com/s/phf6bhjy6owcr6b1rvfe412fiw059pxk" target="_blank">Code</a>
 
 - <span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">Peer-to-Peer Netw. Appl</span> *CAT: A Simple Heterogeneous Ensemble Learning Framework for Network Intrusion Detection*  
   Zheng Zhang, **Guan Huang**, Sanjeev Baskiyar  
