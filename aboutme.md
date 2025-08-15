@@ -6,7 +6,7 @@ permalink: /aboutme/
 
 <img src="/assets/img/Guan_Huang.jpg" width="150" style="float: right; margin-left: 20px; border-radius: 10px;">
 
-I am **Guan Huang**, a Ph.D. student in the Department of Computer Science and Software Engineering at **Auburn University**, where I also earned my M.S. in 2023.
+I am **Guan Huang**, a Ph.D. candidate in the Department of Computer Science and Software Engineering at **Auburn University**, where I also earned my M.S. in 2023.
 
 My research focuses on **Federated Learning**, **Transformer-based Architectures**, **Graph Machine Learning**, **Ensemble Learning**, **Model Distillation**, and **Dynamic Pruning for Large Language Models (LLMs)**. I work on practical challenges such as learning under noisy labels, network intrusion detection, cybersecurity analytics, low-Earth-orbit satellite systems, and efficient LLM inference via structured pruning.
 
