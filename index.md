@@ -5,7 +5,7 @@ subtitle: ""
 ---
 
 <div style="text-align: center;">
-  <p style="font-size: 1.25em; margin-bottom: 0.2em;">Ph.D. Student · Auburn University</p>
+  <p style="font-size: 1.25em; margin-bottom: 0.2em;">Ph.D. Candidate · Auburn University</p>
   <p style="font-size: 1.05em; color: #555;">📧 gzh0040 <i>at</i> auburn <i>dot</i> edu</p>
 </div>
 
