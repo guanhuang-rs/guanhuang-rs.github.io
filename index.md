@@ -9,7 +9,7 @@ subtitle: ""
   <p style="font-size: 1.05em; color: #555;">📧 gzh0040 <i>at</i> auburn <i>dot</i> edu</p>
 </div>
 
-Welcome! I’m **Guan Huang**, a Ph.D. student in Computer Science and Software Engineering at **Auburn University**. My research focuses on **Federated Learning**, **Transformer-based Architectures**, **Graph Machine Learning**, **Ensemble Learning**, **Model Distillation**, and **Dynamic Pruning for Large Language Models (LLMs)**.
+Welcome! I’m **Guan Huang**, a Ph.D. candidate in Computer Science and Software Engineering at **Auburn University**. My research focuses on **Federated Learning**, **Transformer-based Architectures**, **Graph Machine Learning**, **Ensemble Learning**, **Model Distillation**, and **Dynamic Pruning for Large Language Models (LLMs)**.
 
 ---
 
