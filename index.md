@@ -52,7 +52,7 @@ Welcome! I’m **Guan Huang**, a Ph.D. candidate in Computer Science and Softwar
 
 
 ---
-
+<!--
 ### 👨‍🏫 Teaching Experience
 
 I have served as a teaching assistant for both undergraduate and graduate-level courses in computer science and software engineering at Auburn University. Below is a list of the courses I have supported:
@@ -69,5 +69,5 @@ I have served as a teaching assistant for both undergraduate and graduate-level 
 | **Spring 2023** | CPSC 3700     | Software Engineering                            |
 | **Fall 2022**   | CPSC 3700     | Software Engineering                            |
 
-
+-->
 You can also check out my [CV](/cv/) or read more [about me](/aboutme/).
