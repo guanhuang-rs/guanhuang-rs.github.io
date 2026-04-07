@@ -15,7 +15,7 @@ Welcome! I’m **Guan Huang**, a Ph.D. candidate in Computer Science and Softwar
 
 ### 📰 News & Updates
 
-- <span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">May 2025</span> One paper accepted at **ACL 2026**  
+- <span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">April 2026</span> One paper accepted at **ACL 2026**  
 
 - <span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">May 2025</span> One paper accepted at **ICML 2025**  
 
