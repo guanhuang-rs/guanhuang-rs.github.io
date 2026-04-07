@@ -28,8 +28,7 @@ Welcome! I’m **Guan Huang**, a Ph.D. candidate in Computer Science and Softwar
 
 ### 📚 Published
 
-- <span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">ACL</span> *EOP-LLM: Energy Oriented Pruning for Large Language Models*  
-  **Guan Huang**, Tao Shu  
+- <span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">ACL</span> *EOP-LLM: Energy Oriented Pruning for Large Language Models*  **Guan Huang**, Tao Shu  
   The 64th Annual Meeting of the Association for Computational Linguistics (ACL), 2026 – Accepted, to appear in April 2026  
   🔗 [PDF]
 
