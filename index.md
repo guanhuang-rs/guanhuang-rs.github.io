@@ -63,8 +63,8 @@ Welcome! I’m **Guan Huang**, a Ph.D. candidate in Computer Science and Softwar
 ### Academic Service
 
 **Conference Reviewer**
-- ICML 2026
-- AAAI 2026 (Phase 1 & Phase 2)
+- **ICML 2026**
+- **AAAI 2026** (Phase 1 & Phase 2)
 
 **Journal Reviewer**
 - The Journal of Supercomputing (2025)
