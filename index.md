@@ -50,7 +50,7 @@ Welcome! I’m **Guan Huang**, a Ph.D. candidate in Computer Science and Softwar
   Zheng Zhang, Amit Das, **Guan Huang**, Sanjeev Baskiyar<br>
   **Springer Peer-to-Peer Networking and Applications**, 2025 – Accepted, to appear in April 2025  
   🔗 [PDF](/assets/publications/cat.pdf)<br> 
----
+
 
 ### 📝 Under Review
 
