@@ -90,4 +90,4 @@ I have served as a teaching assistant for both undergraduate and graduate-level 
 | **Fall 2022**   | CPSC 3700     | Software Engineering                            |
 
 
-You can also check out my [CV](/cv/) or read more [about me](/aboutme/).
+You can also read more [about me](/aboutme/).
