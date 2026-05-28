@@ -65,10 +65,10 @@ Welcome! I’m **Guan Huang**, a Ph.D. candidate in Computer Science and Softwar
 
 **Conference Reviewer**
 - **NeurIPS 2026**
-- **•	Reviewer, ICML 2026**  (Gold Reviewer Award)
+- **ICML 2026**  (Gold Reviewer Award)
 - **AAAI 2026** 
-- **IEEE INFOCOM (2022–2025)** 
-- 
+- **INFOCOM (2022–2025)** 
+ 
 **Journal Reviewer**
 - The Journal of Supercomputing (2025)
 - Journal of King Saud University – Computer and Information Sciences (2026)
