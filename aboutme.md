@@ -8,10 +8,9 @@ permalink: /aboutme/
 
 I am **Guan Huang**, a Ph.D. candidate in the Department of Computer Science and Software Engineering at **Auburn University**, where I also earned my M.S. in 2023.
 
-My research focuses on **Federated Learning**, **Transformer-based Architectures**, **Graph Machine Learning**, **Ensemble Learning**, **Model Distillation**, and **Dynamic Pruning for Large Language Models (LLMs)**. I work on practical challenges such as learning under noisy labels, network intrusion detection, cybersecurity analytics, low-Earth-orbit satellite systems, and efficient LLM inference via structured pruning.
+My research develops machine learning methods for **resource-constrained autonomous and distributed systems**. I focus on efficient learning and inference under limited communication, computation, energy, and connectivity, with applications in low-Earth-orbit satellite networks, edge intelligence, cybersecurity, and large language model deployment. My recent work includes communication-efficient federated learning, energy-aware inference for large language models, transformer-based satellite trajectory prediction, and robust learning under noisy or heterogeneous data.
 
-I have published papers in premier machine learning venues, including **ICML**, **ACL**, and **ICMLA**. I am a recipient of the **Auburn University Graduate Fellowship**. I am also supported by the **Auburn University Graduate Research Fellowship** through my advisor [Dr. Tao Shu](https://eng.auburn.edu/users/tzs0058/)'s grant. In addition, I serve as a **teaching assistant** in the department.
+I have published papers in leading machine learning and natural language processing venues, including **ICML** and **ACL**. I received the **ICML 2026 Gold Reviewer Award** and have served as a reviewer for ICML, NeurIPS, AAAI, IEEE INFOCOM, and several journals. I have also served as a graduate teaching assistant for courses in computer networks, network security, computer architecture, and software engineering.
 
-In my free time, I enjoy reading about AI safety, contributing to open-source ML libraries, and building academic tools that bridge research and real-world applications.
+Beyond research and teaching, I am interested in building practical AI systems that bridge rigorous machine learning methodology with real-world deployment constraints.
 
-You can view my [CV](/cv/) or explore my [publications](https://guanhuang-rs.github.io/).
