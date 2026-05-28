@@ -9,7 +9,9 @@ subtitle: ""
   <p style="font-size: 1.05em; color: #555;">📧 gzh0040 <i>at</i> auburn <i>dot</i> edu</p>
 </div>
 
-Welcome! I’m **Guan Huang**, a Ph.D. candidate in Computer Science and Software Engineering at Auburn University. My research centers on machine learning under resource constraints in large-scale distributed systems, motivated by LEO satellite constellations, where **intermittent connectivity** and **limited on-board energy** impose fundamental constraints on model training and inference. I develop principled and practical methods for efficient learning under these constraints, including communication-efficient federated learning and energy-aware inference for large language models. I also develop machine learning methods for real-world prediction tasks, such as LEO satellite orbit prediction, offering a pathway to extend resource-aware learning to dynamic system settings..
+Welcome! I’m **Guan Huang**, a Ph.D. candidate in Computer Science and Software Engineering at Auburn University. My research focuses on **resource-aware machine learning** for autonomous and distributed systems, motivated by real-world environments such as LEO satellite constellations, edge platforms, and large-scale sensing systems, where intermittent connectivity, limited communication bandwidth, and constrained onboard energy fundamentally shape how learning and inference can be performed.
+
+I develop principled and practical machine learning methods under these constraints, including communication-efficient federated learning, personalized distributed learning, and energy-aware inference for large language models. I am also interested in prediction and decision-making problems in dynamic systems, including satellite orbit prediction and resource-aware sensing, with the broader goal of enabling reliable and efficient AI systems in resource-constrained real-world environments.
 
 ---
 
