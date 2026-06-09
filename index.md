@@ -54,12 +54,6 @@ I develop principled and practical machine learning methods under these constrai
   🔗 [PDF](/assets/publications/cat.pdf)<br> 
 
 
-### 📝 Under Review
-
-- *Decentralized Federated Learning Over Noisy \*\*\*\*\*\**  
-  **Guan Huang**, Tao Shu  
-  Submitted to _Neurocomputing_
-
 
 ---
 
