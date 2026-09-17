@@ -17,7 +17,7 @@ My work spans **energy-aware large language model inference**, **communication-e
 
 ### 📰 News & Updates
 
-- <span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">September 2026</span> One paper accepted at **Neural Computing and Applications (Springer)**
+- - <span style="white-space: nowrap;"><span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">September 2026</span> One paper accepted at **Neural Computing and Applications (Springer)**</span>
   
 - <span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">April 2026</span> One paper accepted at **ACL 2026**  
 
