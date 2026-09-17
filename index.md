@@ -46,8 +46,7 @@ My work spans **energy-aware large language model inference**, **communication-e
 
 - <span style="white-space: nowrap;"><span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">ICMLA</span> *A Global-Local ProbSparse Self-Attention Transformer for LEO Satellite Orbit Prediction*</span><br>
   <span style="white-space: nowrap;">**Guan Huang**, Tao Shu</span><br>
-  <span style="white-space: nowrap;">23rd International Conference on Machine Learning and Applications (**ICMLA**), 2024 – Accepted, to appear in September 2024</span><br>
-  <span style="white-space: nowrap;">*(Acceptance rate: 24.3%)*</span><br>
+  <span style="white-space: nowrap;">23rd International Conference on Machine Learning and Applications (**ICMLA**), 2024 – Accepted, to appear in September 2024 *(Acceptance rate: 24.3%)*</span><br>
   🔗 [PDF](/assets/publications/GLO.pdf) &nbsp;|&nbsp; [Slides](/assets/slides/glopre.pptx)<br>
 
 
