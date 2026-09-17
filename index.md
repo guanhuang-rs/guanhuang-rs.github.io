@@ -9,7 +9,7 @@ subtitle: ""
   <p style="font-size: 1.05em; color: #555;">📧 gzh0040 <i>at</i> auburn <i>dot</i> edu</p>
 </div>
 
-Welcome! I’m **Guan Huang**, a Ph.D. candidate in Computer Science and Software Engineering at Auburn University. My research focuses on **reliable and resource-aware machine learning across the cloud–edge–space computing continuum**. I study how learning and inference systems can remain effective under limited communication opportunities, constrained computational resources, and finite energy budgets, as well as heterogeneous, noisy, and dynamic data.
+Welcome! I’m **Guan Huang**, a Ph.D. candidate in Computer Science and Software Engineering at Auburn University. My research focuses on **resource-aware machine learning across the cloud–edge–space computing continuum**. I study how learning and inference systems can remain effective under limited communication opportunities, constrained computational resources, and finite energy budgets, as well as heterogeneous, noisy, and dynamic data.
 
 My work spans **energy-aware large language model inference**, **communication-efficient, personalized, and robust federated learning under model and data heterogeneity**, and **machine learning for autonomous and satellite systems**. My broader goal is to develop adaptive AI systems that can learn, communicate, and compute reliably under real-world resource constraints, from large-scale AI infrastructure and terrestrial edge platforms to non-terrestrial and space systems.
 
@@ -17,6 +17,8 @@ My work spans **energy-aware large language model inference**, **communication-e
 
 ### 📰 News & Updates
 
+- <span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">September 2026</span> One paper accepted at **Neural Computing and Applications (Springer)**
+  
 - <span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">April 2026</span> One paper accepted at **ACL 2026**  
 
 - <span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">May 2025</span> One paper accepted at **ICML 2025**  
@@ -48,16 +50,19 @@ My work spans **energy-aware large language model inference**, **communication-e
   🔗 [PDF](/assets/publications/GLO.pdf) &nbsp;|&nbsp; [Slides](/assets/slides/glopre.pptx)<br>
 
 #### Journal Articles
+- <span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">Neural Comput. Appl.</span> *Decentralized Federated Learning Over Noisy Labels: A Majority Voting Method*<br>
+  **Guan Huang**, Tao Shu<br>
+  **Neural Computing and Applications (Springer)**, 2026 – Accepted,  to appear in September 2026<br>
+  
 - <span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">Peer-to-Peer Netw. Appl</span> *CAT: A Simple Heterogeneous Ensemble Learning Framework for Network Intrusion Detection*<br>
   Zheng Zhang, Amit Das, **Guan Huang**, Sanjeev Baskiyar<br>
-  **Springer Peer-to-Peer Networking and Applications**, 2025 – Accepted, to appear in April 2025  
+  **Peer-to-Peer Networking and Applications (Springer)**, 2025 – Accepted, to appear in April 2025  
   🔗 [PDF](/assets/publications/cat.pdf)<br> 
 
 ### Under Review
 
 - 1 paper submitted to AAAI 2027
 - 1 paper submitted to IEEE/CVF WACV 2027
-- 1 paper submitted to Neural Computing and Applications
 
 ---
 
@@ -65,13 +70,15 @@ My work spans **energy-aware large language model inference**, **communication-e
 
 **Conference Reviewer**
 - **NeurIPS 2026**
-- **ICML 2026**  (Gold Reviewer Award)
-- **AAAI 2026** 
-- **INFOCOM (2022–2025)** 
- 
+- **ICML 2026** (Gold Reviewer Award)
+- **AAAI 2026, 2027**
+- **IEEE/CVF WACV 2027**
+- **IEEE INFOCOM (2022–2027)**
+
 **Journal Reviewer**
-- The Journal of Supercomputing (2025)
-- Journal of King Saud University – Computer and Information Sciences (2026)
+- *Neural Computing and Applications* (2026–present)
+- *Journal of King Saud University – Computer and Information Sciences* (2026–present)
+- *The Journal of Supercomputing* (2025–present)
 
 ---
 ### 👨‍🏫 Teaching Experience
