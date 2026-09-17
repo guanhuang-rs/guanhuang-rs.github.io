@@ -33,31 +33,34 @@ My work spans **energy-aware large language model inference**, **communication-e
 ### 📚 Published
 
 #### Conference Papers
-- <span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">ACL</span> *EOP-LLM: Energy Oriented Pruning for Large Language Models*<br>
-  **Guan Huang**, Tao Shu<br>
-  Findings of the 64th Annual Meeting of the Association for Computational Linguistics (**ACL**), 2026 – Accepted, to appear in April 2026  
+
+- <span style="white-space: nowrap;"><span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">ACL</span> *EOP-LLM: Energy Oriented Pruning for Large Language Models*</span><br>
+  <span style="white-space: nowrap;">**Guan Huang**, Tao Shu</span><br>
+  <span style="white-space: nowrap;">Findings of the 64th Annual Meeting of the Association for Computational Linguistics (**ACL**), 2026 – Accepted, to appear in April 2026</span><br>
   🔗 [PDF](/assets/publications/EOP_LLM__new.pdf)<br>
 
-- <span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">ICML</span> *Federated Oriented Learning: A Practical One-Shot Personalized Federated Learning Framework*<br>
-  **Guan Huang**, Tao Shu<br>
-  42nd International Conference on Machine Learning (**ICML**), 2025 – Accepted, to appear in May 2025  
+- <span style="white-space: nowrap;"><span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">ICML</span> *Federated Oriented Learning: A Practical One-Shot Personalized Federated Learning Framework*</span><br>
+  <span style="white-space: nowrap;">**Guan Huang**, Tao Shu</span><br>
+  <span style="white-space: nowrap;">42nd International Conference on Machine Learning (**ICML**), 2025 – Accepted, to appear in May 2025</span><br>
   🔗 [PDF](/assets/publications/Federated_Oriented_Learning_Guan_Huang_cameraready.pdf) &nbsp;|&nbsp; [Slides](/assets/slides/ICML_FOL_video_slides_guan.pdf) &nbsp;|&nbsp; [Poster](https://github.com/guanhuang-rs/guanhuang-rs.github.io/blob/master/assets/publications/Guan_Huang_ICML_2025_FOL_Poster.pdf)<br>
 
-- <span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">ICMLA</span> *A Global-Local ProbSparse Self-Attention Transformer for LEO Satellite Orbit Prediction*<br>
-  **Guan Huang**, Tao Shu<br>
-  23rd International Conference on Machine Learning and Applications (**ICMLA**), 2024 – Accepted, to appear in September 2024  
-  *(Acceptance rate: 24.3%)*  
+- <span style="white-space: nowrap;"><span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">ICMLA</span> *A Global-Local ProbSparse Self-Attention Transformer for LEO Satellite Orbit Prediction*</span><br>
+  <span style="white-space: nowrap;">**Guan Huang**, Tao Shu</span><br>
+  <span style="white-space: nowrap;">23rd International Conference on Machine Learning and Applications (**ICMLA**), 2024 – Accepted, to appear in September 2024</span><br>
+  <span style="white-space: nowrap;">*(Acceptance rate: 24.3%)*</span><br>
   🔗 [PDF](/assets/publications/GLO.pdf) &nbsp;|&nbsp; [Slides](/assets/slides/glopre.pptx)<br>
 
+
 #### Journal Articles
-- <span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">Neural Comput. Appl.</span> *Decentralized Federated Learning Over Noisy Labels: A Majority Voting Method*<br>
-  **Guan Huang**, Tao Shu<br>
-  **Neural Computing and Applications (Springer)**, 2026 – Accepted,  to appear in September 2026<br>
-  
-- <span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">Peer-to-Peer Netw. Appl</span> *CAT: A Simple Heterogeneous Ensemble Learning Framework for Network Intrusion Detection*<br>
-  Zheng Zhang, Amit Das, **Guan Huang**, Sanjeev Baskiyar<br>
-  **Peer-to-Peer Networking and Applications (Springer)**, 2025 – Accepted, to appear in April 2025  
-  🔗 [PDF](/assets/publications/cat.pdf)<br> 
+
+- <span style="white-space: nowrap;"><span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">Neural Comput. Appl.</span> *Decentralized Federated Learning Over Noisy Labels: A Majority Voting Method*</span><br>
+  <span style="white-space: nowrap;">**Guan Huang**, Tao Shu</span><br>
+  <span style="white-space: nowrap;">**Neural Computing and Applications (Springer)**, 2026 – Accepted, to appear in September 2026</span><br>
+
+- <span style="white-space: nowrap;"><span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">Peer-to-Peer Netw. Appl.</span> *CAT: A Simple Heterogeneous Ensemble Learning Framework for Network Intrusion Detection*</span><br>
+  <span style="white-space: nowrap;">Zheng Zhang, Amit Das, **Guan Huang**, Sanjeev Baskiyar</span><br>
+  <span style="white-space: nowrap;">**Peer-to-Peer Networking and Applications (Springer)**, 2025 – Accepted, to appear in April 2025</span><br>
+  🔗 [PDF](/assets/publications/cat.pdf)<br>
 
 ### Under Review
 
