@@ -89,6 +89,7 @@ I have served as a teaching assistant for both undergraduate and graduate-level 
 
 | Semester        | Course Code   | Course Title                                      |
 |-----------------|---------------|--------------------------------------------------|
+| **Fall 2026**   | COMP 6320     | Design and Analysis of Computer Networks              |
 | **Fall 2026**   | COMP 4320     | Introduction to Computer Networks                |
 | **Spring 2026** | COMP 7370     | Advanced Computer and Network Security           |
 | **Spring 2026** | COMP 4320     | Introduction to Computer Networks                |
