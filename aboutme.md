@@ -6,7 +6,7 @@ permalink: /aboutme/
 
 <img src="/assets/img/Guan_Huang.jpg" width="150" style="float: right; margin-left: 20px; border-radius: 10px;">
 
-I am **Guan Huang**, a Ph.D. candidate in the Department of Computer Science and Software Engineering at **Auburn University**, where I also earned my M.S. in 2023.
+I am **Guan Huang**, a Ph.D. candidate in the Department of Computer Science and Software Engineering at **Auburn University**, advised by Prof. [Tao Shu](https://eng.auburn.edu/directory/tzs0058).
 
 My research focuses on **reliable and resource-aware machine learning across the cloud–edge–space computing continuum**. I develop learning and inference methods that remain effective under limited communication opportunities, constrained computational resources, and finite energy budgets, as well as heterogeneous, noisy, and dynamic data. My work spans **energy-aware large language model inference**, **communication-efficient, personalized, and robust federated learning**, and **machine learning for autonomous and satellite systems**.
 
