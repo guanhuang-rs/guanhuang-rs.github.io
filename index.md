@@ -55,6 +55,7 @@ My work spans **energy-aware large language model inference**, **communication-e
 - <span style="white-space: nowrap;"><span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">Neural Comput. Appl.</span> *Decentralized Federated Learning Over Noisy Labels: A Majority Voting Method*</span><br>
   <span style="white-space: nowrap;">**Guan Huang**, Tao Shu</span><br>
   <span style="white-space: nowrap;">**Neural Computing and Applications (Springer)**, 2026 – Accepted, to appear in September 2026</span><br>
+  🔗 [PDF](/assets/publications/DFLMV.pdf)<br>
 
 - <span style="white-space: nowrap;"><span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">Peer-to-Peer Netw. Appl.</span> *CAT: A Simple Heterogeneous Ensemble Learning Framework for Network Intrusion Detection*</span><br>
   <span style="white-space: nowrap;">Zheng Zhang, Amit Das, **Guan Huang**, Sanjeev Baskiyar</span><br>
