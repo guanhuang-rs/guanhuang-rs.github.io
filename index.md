@@ -33,34 +33,37 @@ My work spans **energy-aware large language model inference**, **communication-e
 ### 📚 Published
 
 
+
 #### Conference Papers
 
 - <span style="white-space: nowrap;"><span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">ACL</span> *EOP-LLM: Energy Oriented Pruning for Large Language Models*</span><br>
   <span style="white-space: nowrap;">**Guan Huang**, Tao Shu</span><br>
-  Findings of the Association for Computational Linguistics (**ACL**), 2026, pp. 7443–7464, July 2026<br>
-  🔗 [Paper](https://aclanthology.org/2026.findings-acl.367/) &nbsp;|&nbsp; [Poster](https://github.com/guanhuang-rs/guanhuang-rs.github.io/blob/master/assets/publications/Guan_Huang_ICML_2025_FOL_Poster.pdf)<br>
+  <span style="white-space: nowrap;">Findings of the 64th Annual Meeting of the Association for Computational Linguistics (**ACL**), 2026 – Accepted, to appear in April 2026</span><br>
+  🔗 [Paper](https://aclanthology.org/2026.findings-acl.367/) &nbsp;|&nbsp; [Poster](/assets/publications/Guan_Huang_ACL_2026_EOP.pdf)<br>
+
 
 - <span style="white-space: nowrap;"><span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">ICML</span> *Federated Oriented Learning: A Practical One-Shot Personalized Federated Learning Framework*</span><br>
   <span style="white-space: nowrap;">**Guan Huang**, Tao Shu</span><br>
-  42nd International Conference on Machine Learning (**ICML**), 2025, PMLR 267, pp. 25762–25790<br>
+  <span style="white-space: nowrap;">42nd International Conference on Machine Learning (**ICML**), 2025 – Accepted, to appear in May 2025</span><br>
   🔗 [Paper](https://proceedings.mlr.press/v267/huang25ae.html) &nbsp;|&nbsp; [Slides](/assets/slides/ICML_FOL_video_slides_guan.pdf) &nbsp;|&nbsp; [Poster](https://github.com/guanhuang-rs/guanhuang-rs.github.io/blob/master/assets/publications/Guan_Huang_ICML_2025_FOL_Poster.pdf)<br>
 
 - <span style="white-space: nowrap;"><span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">ICMLA</span> *A Global-Local ProbSparse Self-Attention Transformer for LEO Satellite Orbit Prediction*</span><br>
   <span style="white-space: nowrap;">**Guan Huang**, Tao Shu</span><br>
-  23rd International Conference on Machine Learning and Applications (**ICMLA**), 2024, pp. 91–98 *(Acceptance rate: 24.3%)*<br>
+  <span style="white-space: nowrap;">23rd International Conference on Machine Learning and Applications (**ICMLA**), 2024 – Accepted, to appear in September 2024 *(Acceptance rate: 24.3%)*</span><br>
   🔗 [Paper](https://doi.org/10.1109/ICMLA61862.2024.00019) &nbsp;|&nbsp; [Slides](/assets/slides/glopre.pptx)<br>
 
 #### Journal Articles
 
 - <span style="white-space: nowrap;"><span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">Neural Comput. Appl.</span> *Decentralized Federated Learning Over Noisy Labels: A Majority Voting Method*</span><br>
   <span style="white-space: nowrap;">**Guan Huang**, Tao Shu</span><br>
-  **Neural Computing and Applications (Springer)**, Vol. 38, Article 850, October 2026<br>
+  <span style="white-space: nowrap;">**Neural Computing and Applications (Springer)**, 2026 – Accepted, to appear in September 2026</span><br>
   🔗 [Paper](https://link.springer.com/article/10.1007/s00521-026-12582-2)<br>
 
 - <span style="white-space: nowrap;"><span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">Peer-to-Peer Netw. Appl.</span> *CAT: A Simple Heterogeneous Ensemble Learning Framework for Network Intrusion Detection*</span><br>
   <span style="white-space: nowrap;">Zheng Zhang, Amit Das, **Guan Huang**, Sanjeev Baskiyar</span><br>
-  **Peer-to-Peer Networking and Applications (Springer)**, Vol. 18, Article 213, June 2025<br>
+  <span style="white-space: nowrap;">**Peer-to-Peer Networking and Applications (Springer)**, 2025 – Accepted, to appear in April 2025</span><br>
   🔗 [Paper](https://link.springer.com/article/10.1007/s12083-025-02000-0)<br>
+
 
 
 ### Under Review
