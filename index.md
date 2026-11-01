@@ -84,7 +84,7 @@ My work spans **energy-aware large language model inference**, **communication-e
 
 **Journal Reviewer**
 - *Neural Computing and Applications* (2026–present)
-- *Journal of King Saud University – Computer and Information Sciences* (2026–present)
+- <span style="white-space: nowrap;">*Journal of King Saud University – Computer and Information Sciences* (2026–present)</span>
 - *The Journal of Supercomputing* (2025–present)
 
 ---
