@@ -12,5 +12,5 @@ My research focuses on **reliable and resource-aware machine learning across the
 
 I have published research in leading machine learning and natural language processing venues, including **ICML** and **ACL**. I received the **ICML 2026 Gold Reviewer Award** and have served as a reviewer for ICML, NeurIPS, AAAI, IEEE/CVF WACV, IEEE INFOCOM, and several journals. I have also served as a graduate teaching assistant for courses in computer networks, network security, computer architecture, and software engineering.
 
-More broadly, my long-term goal is to develop **adaptive and reliable AI systems that can learn, communicate, and compute effectively under real-world resource constraints**, from large-scale AI infrastructure and terrestrial edge systems to non-terrestrial platforms.
+More broadly, my research aims to develop **adaptive and reliable AI systems that can learn, communicate, and compute effectively under real-world resource constraints**, from large-scale AI infrastructure and terrestrial edge systems to non-terrestrial platforms.
 
