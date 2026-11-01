@@ -38,7 +38,7 @@ My work spans **energy-aware large language model inference**, **communication-e
 - <span style="white-space: nowrap;"><span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">ACL</span> *EOP-LLM: Energy Oriented Pruning for Large Language Models*</span><br>
   <span style="white-space: nowrap;">**Guan Huang**, Tao Shu</span><br>
   Findings of the Association for Computational Linguistics (**ACL**), 2026, pp. 7443–7464, July 2026<br>
-  🔗 [Paper](https://aclanthology.org/2026.findings-acl.367/)<br>
+  🔗 [Paper](https://aclanthology.org/2026.findings-acl.367/) &nbsp;|&nbsp; [Poster](https://github.com/guanhuang-rs/guanhuang-rs.github.io/blob/master/assets/publications/Guan_Huang_ICML_2025_FOL_Poster.pdf)<br>
 
 - <span style="white-space: nowrap;"><span style="background-color:#8e44ad; color:white; padding:2px 8px; border-radius:12px; font-size:90%; font-weight:bold;">ICML</span> *Federated Oriented Learning: A Practical One-Shot Personalized Federated Learning Framework*</span><br>
   <span style="white-space: nowrap;">**Guan Huang**, Tao Shu</span><br>
