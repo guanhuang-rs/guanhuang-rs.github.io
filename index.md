@@ -81,6 +81,7 @@ My work spans **energy-aware large language model inference**, **communication-e
 - **AAAI 2026, 2027**
 - **IEEE/CVF WACV 2027**
 - **IEEE INFOCOM (2022–2027)**
+- **CVPR 2027**
 
 **Journal Reviewer**
 - *Neural Computing and Applications* (2026–present)
